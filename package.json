@@ -2,9 +2,9 @@
   "name": "email-setup",
   "version": "1.0.0",
   "scripts": {
-    "deploy": "gh-pages -d production"
+    "deploy": "gh-pages -d src"
   },
-  "homepage": "https://cmcoke.github.io/name-of-company",
+  "homepage": "https://cmcoke.github.io/nike",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "gh-pages": "^2.0.1",
